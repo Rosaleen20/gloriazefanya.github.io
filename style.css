@@ -1,0 +1,19 @@
+.jumbotron {
+  background-color: #ffd700;
+}
+
+#Pesan {
+  background-color: #ffd700;
+}
+
+footer {
+  color: black;
+}
+
+footer p a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+footer p a:hover {
+  color: magenta;
+}
